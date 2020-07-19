@@ -3,7 +3,7 @@ class Bob{
         var options = {
             isStatic: false,
             density:0.6,
-            restitution: 1,
+            restitution: 1,ddd
             friction: 10
         }
         
